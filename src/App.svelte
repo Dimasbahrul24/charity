@@ -1,1 +1,1 @@
- <h1>cahrity</h1>
+ <h1>Charity</h1>
