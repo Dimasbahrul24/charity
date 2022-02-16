@@ -1,1 +1,7 @@
- <h1>Charity</h1>
+<script>
+	import Home from './pages/Home.svelte';
+</script>
+
+
+
+<Home />
