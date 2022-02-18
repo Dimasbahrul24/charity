@@ -10,7 +10,7 @@
             height="450" />
           <h2 class="xs-title">Oops!</h2>
           <p>Ada yang salah dengan halamannya. Saya tidak dapat menemukannya.</p>
-          <a href="/" class="btn btn-primary mt-4">Kembali ke halaman rumah</a>
+          <a href="/" class="btn btn-primary mt-4">Kembali ke home</a>
         </div>
         <!-- .xs-heading-title END -->
         <!-- END -->
